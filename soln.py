@@ -4,7 +4,7 @@ import requests
 from datetime import datetime
 
 BITBUCKET_BASE_URL = 'https://api.bitbucket.org/2.0'
-BITBUCKET_USERNAME = 'Faizal'
+BITBUCKET_USERNAME = 'Simran'
 BITBUCKET_APP_PASSWORD = '*********************'
 
 def get_nested_accounts(folder_path):
